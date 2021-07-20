@@ -42,8 +42,7 @@ public class MovingEnemy : MonoBehaviour
             _targetPoint = thePath.getNextPoint();
         }
     }
-
-   
+ 
     public void flip()
     {
         faceright = !faceright;

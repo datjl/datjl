@@ -4,9 +4,9 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Opo
   - cherry
   - collect
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -16,7 +16,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Ground
   - 
   - 
   - 
